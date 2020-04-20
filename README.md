@@ -1,4 +1,5 @@
 ![not](https://github.com/phr-nk/ReactSudoku/blob/master/public/notcompleted.PNG)
+![com](https://github.com/phr-nk/ReactSudoku/blob/master/public/completed.PNG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
