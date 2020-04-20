@@ -1,3 +1,5 @@
+![not](https://github.com/phr-nk/ReactSudoku/blob/master/public/notcompleted.PNG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
